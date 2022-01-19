@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaphahamadi&label=Vues%20du%20profile&color=0e75b6&style=plastic" alt="mustaphahamadi" /> </p>
 
-- 🔭 En ce moment je travaille sur [Crypto Gate](https://crypto-gate.netlify.app/)
+- 🔭 En ce moment je travaille sur [Cryto Gate](https://crypto-gate.netlify.app/)
 
 - 🌱 Actuellement j'apprend **React-Native et Solidity**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mustapha-hamadi-386825214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustapha-hamadi-386825214/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//mustapha-hamadi-386825214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/mustapha-hamadi-386825214/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
