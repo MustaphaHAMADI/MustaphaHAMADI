@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaphahamadi&label=Vues%20du%20profile&color=0e75b6&style=plastic" alt="mustaphahamadi" /> </p>
 
-- 🔭 En ce moment je travaille sur [Cryto Gate](https://crypto-gate.netlify.app/)
+- 🔭 En ce moment je travaille sur [Crypto Gate](https://crypto-gate.netlify.app/)
 
 - 🌱 Actuellement j'apprend **React-Native et Solidity**
 
