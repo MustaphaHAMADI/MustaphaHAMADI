@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour👋, je suis Mustapha !</h1>
-<h3 align="center">Un développeur Front-end passionné</h3>
+<h3 align="center">Développeur Front-end && Back-end passionné par la tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaphahamadi&label=Vues%20du%20profile&color=0e75b6&style=plastic" alt="mustaphahamadi" /> </p>
 
@@ -13,7 +13,7 @@
 
 - ⚡ Loisirs **Jeux vidéos, pilotage de drone, sports**
 
-<h3 align="left">Connectez vous à mon réseau:</h3>
+<h3 align="left">Connectez vous à mon réseau</h3>
 <p align="left">
 <a href="https://linkedin.com/in//mustapha-hamadi-386825214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/mustapha-hamadi-386825214/" height="30" width="40" /></a>
 </p>
