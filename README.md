@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaphahamadi&label=Vues%20du%20profile&color=0e75b6&style=plastic" alt="mustaphahamadi" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaphahamadi&show_icons=true&theme=dark&hide_border=true&locale=fr" alt="mustaphahamadi" /></p>
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaphahamadi&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="mustaphahamadi" /></p>
 
 - 🔭 En ce moment je travaille sur [Crypto Gate](https://crypto-gate.netlify.app/)
 
