@@ -1,6 +1,8 @@
 <h1 align="center">Bonjour👋, je suis Mustapha !</h1>
 <h3 align="center">Développeur Front-end && Back-end passionné par la tech</h3>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaphahamadi&show_icons=true&theme=dark&hide_border=true&locale=en" alt="mustaphahamadi" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaphahamadi&label=Vues%20du%20profile&color=0e75b6&style=plastic" alt="mustaphahamadi" /> </p>
 
 - 🔭 En ce moment je travaille sur [Crypto Gate](https://crypto-gate.netlify.app/)
