@@ -3,7 +3,7 @@
 ### <div align="center">I'm Mustapha, a full-time full-stack developer 👨‍💻 working remotely 🚀</div>  
   
 
-- 🌱 I’m currently learning Docker and GrapghQL  
+- 🌱 I’m currently learning Nextjs  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
